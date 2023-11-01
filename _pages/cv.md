@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "v8"
+title: "v9"
 permalink: /
 author_profile: true
 redirect_from:
@@ -38,19 +38,19 @@ Full-pipeline Automatic meta-analysis framework driven by GPT4. This project is 
 A collaborative project between CUHK and the HKSAR Government. The system has been implemented for [Invest Hong Kong](https://www.investhk.gov.hk/en/home.html) (Investment Department of the HKSAR) to automatically capture and analyze foreign investment interests. 
 
 ## 🍵Personal Projects
-- **PyPI Library: OpenAI-PTCompletion** 
+- **PyPI Library: OpenAI-PTCompletion** <a href="https://github.com/Phantivia/OpenAI_PTCompletion"><img src="https://phantivia.github.io/files/giticon.png"  width="40"></a>
 
 <img src="https://phantivia.github.io/files/ptcomp.png" alt="" width="500"> 
 
 A Parallel Tasks Completion Library that boosts your OpenAI-API query with task queue & multiprocessing. 
 
-- **Project: Summerday Battle !!** 
+- **Project: Summerday Battle !!** <a href="https://github.com/Phantivia/SummerdayBattle-"><img src="https://phantivia.github.io/files/giticon.png"  width="40"></a>
 
 <img src="https://phantivia.github.io/files/sm.gif" alt="" width="500"> 
 
 An MMO-like Top-down 2D game developed with Godot engine, with full game flow and multiplayer support.  
 
-- **Course Project: P-Lang Analyzer** 
+- **Course Project: P-Lang Analyzer** <a href="https://github.com/Phantivia/P-Lang-analyzer"><img src="https://phantivia.github.io/files/giticon.png"  width="40"></a>
 
 <img src="https://phantivia.github.io/files/plang.png" alt="" width="500"> 
 
