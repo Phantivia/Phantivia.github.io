@@ -21,7 +21,7 @@ I am seeking a PhD position starting in Fall 2024. If you are interested, please
 ***Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework*** <br>
 Findings of the Association for Computational Linguistics: ACL 2023, pages 7132–7146 <br>
 https://aclanthology.org/2023.findings-acl.446.pdf  <br>
-**\*** indicates equal contribution.
+(**\*** indicates equal contribution.)
 
 ## 💻Research Projects
 
