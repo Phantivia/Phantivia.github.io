@@ -24,11 +24,11 @@ Findings of the Association for Computational Linguistics: ACL 2023, pages 7132�
 ##  💻Research Projects
 
 - **LMMA: Large Language Model driven Automatic Clinical Meta-Analysis**
-![pic|400](https://phantivia.github.io/files/lmma.png "")
+<img src="https://phantivia.github.io/files/lmma.png" alt="" width="500">
 Full-pipeline Automatic meta-analysis framework driven by GPT4. This project is led by Sun Lab, UIUC. **(Ongoing)**
 
 - **Automated Few-shot Neural News Retrieval System @ Invest Hong Kong**
-![pic|400](https://phantivia.github.io/files/ivhk.png "")
+<img src="https://phantivia.github.io/files/ivhk.png" alt="" width="500">
 A collaborative project between CUHK and the HKSAR Government. The system has been implemented for [Invest Hong Kong](https://www.investhk.gov.hk/en/home.html) (Investment Department of the HKSAR) to automatically capture and analyze foreign investment interests.
 
 ## 🍵Personal Projects
