@@ -1,22 +1,19 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Publication"
+    url: https://phantivia.github.io/#publication
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research Proj."
+    url: https://phantivia.github.io/#research-projects    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Personal Proj."
+    url: https://phantivia.github.io/#personal-projects  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Experience"
+    url: https://phantivia.github.io/#research-experience
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Honors"
+    url: https://phantivia.github.io/#honors-and-awards
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Education"
+    url: https://phantivia.github.io/#education
