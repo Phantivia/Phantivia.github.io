@@ -24,30 +24,36 @@ Findings of the Association for Computational Linguistics: ACL 2023, pages 7132�
 ##  💻Research Projects
 
 - **LMMA: Large Language Model driven Automatic Clinical Meta-Analysis**  ***(Ongoing)***
-- 
+
 <img src="https://phantivia.github.io/files/lmma.png" alt="" width="500">
 
 Full-pipeline Automatic meta-analysis framework driven by GPT4. This project is led by Sun Lab, UIUC.
 
 - **Automated Few-shot Neural News Retrieval System @ Invest Hong Kong**
-- 
+
 <img src="https://phantivia.github.io/files/ivhk.png" alt="" width="500">
 
 A collaborative project between CUHK and the HKSAR Government. The system has been implemented for [Invest Hong Kong](https://www.investhk.gov.hk/en/home.html) (Investment Department of the HKSAR) to automatically capture and analyze foreign investment interests.
 
 ## 🍵Personal Projects
 - **PyPI Library: OpenAI-PTCompletion**
+
 <img src="https://phantivia.github.io/files/ptcomp.png" alt="" width="500">
+
 A Parallel Tasks Completion Library that boosts your OpenAI-API query with task queue & multiprocessing.
 
 - **Project: Summerday Battle !!**
+
 <video width="500" height="420" controls>
   <source src="https://phantivia.github.io/files/sm.mp4" type="video/mp4"> 
 </video>
+
 An MMO-like Top-down 2D game developed with Godot engine, with full game flow and multiplayer support. 
 
 - **Course Project: P-Lang Analyzer**
+
 <img src="https://phantivia.github.io/files/plang.png" alt="" width="500">
+
 AST analyzer & visualization tool based on C++, with full GUI interface, specified on LL(1) grammar rule. 
 
 ## 🔬Research Experience
