@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am currently on a gap year, working as a research intern at [Sun Lab](https://sunlab.org/ "Sun Lab  Homepage" ), advised by Prof. [Jimeng Sun](https://cs.illinois.edu/about/people/faculty/jimeng) at UIUC. Before this, I was delighted to work with Prof. [Kam-fei Wong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-wong-kam-fai/) at CUHK, Prof. [Zhenzhong Lan](https://en.westlake.edu.cn/faculty/zhenzhong-lan.html) at WestlakeU, and  Prof.  [Wei Wei](https://www.eric-weiwei.com/) at HUST. 
+Hello! I am currently on my gap year as a research intern at [Sun Lab](https://sunlab.org/ "Sun Lab  Homepage" ), advised by Prof. [Jimeng Sun](https://cs.illinois.edu/about/people/faculty/jimeng) at UIUC. Before this, I was delighted to work with Prof. [Kam-fei Wong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-wong-kam-fai/) at CUHK, Prof. [Zhenzhong Lan](https://en.westlake.edu.cn/faculty/zhenzhong-lan.html) at WestlakeU, and  Prof.  [Wei Wei](https://www.eric-weiwei.com/) at HUST. 
 
 My research interests mainly lie in information retrieval systems &  interdisciplinary NLP in expertise domains like healthcare/finance. In the upcoming era of LLM, I am also particularly thrilled about exploring LLMs' potential in enhancing information retrieval systems as interactive agents.
 
