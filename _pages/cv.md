@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "v7"
+title: "v8"
 permalink: /
 author_profile: true
 redirect_from:
@@ -46,9 +46,7 @@ A Parallel Tasks Completion Library that boosts your OpenAI-API query with task 
 
 - **Project: Summerday Battle !!** 
 
-<video width="500" height="420" controls>
-  <source src="https://phantivia.github.io/files/sm.mp4" type="video/mp4"> 
-</video> 
+<img src="https://phantivia.github.io/files/sm.gif" alt="" width="500"> 
 
 An MMO-like Top-down 2D game developed with Godot engine, with full game flow and multiplayer support.  
 
