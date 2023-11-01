@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "v6"
+title: "v7"
 permalink: /
 author_profile: true
 redirect_from:
@@ -33,7 +33,7 @@ Full-pipeline Automatic meta-analysis framework driven by GPT4. This project is 
 
 - **Automated Few-shot Neural News Retrieval System @ Invest Hong Kong**  
 
-<img src="https://phantivia.github.io/files/ivhk.png" alt="" width="500"> 
+<img src="https://phantivia.github.io/files/investhk-logo-en.jpg" alt="" width="500"> 
 
 A collaborative project between CUHK and the HKSAR Government. The system has been implemented for [Invest Hong Kong](https://www.investhk.gov.hk/en/home.html) (Investment Department of the HKSAR) to automatically capture and analyze foreign investment interests. 
 
