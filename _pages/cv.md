@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "v1"
+title: "v2"
 permalink: /
 author_profile: true
 redirect_from:
@@ -19,42 +19,42 @@ I am seeking a PhD position starting in Fall 2024. If you are interested, please
 ##  📝Publications
 -  \*LiFan Yuan, \*YiChi Zhang, YangYi Chen, and Wei Wei. 2022. 
 ***Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework***
-Findings of the Association for Computational Linguistics: ACL 2023, pages 7132–7146 https://aclanthology.org/2023.findings-acl.446.pdf
+Findings of the Association for Computational Linguistics: ACL 2023, pages 7132–7146 https://aclanthology.org/2023.findings-acl.446.pdf <br>
 **\*** indicates equal contribution.
 ##  💻Research Projects
 
-- **LMMA: Large Language Model driven Automatic Clinical Meta-Analysis**  ***(Ongoing)***
+- **LMMA: Large Language Model driven Automatic Clinical Meta-Analysis**  ***(Ongoing)*** <br>
 
-<img src="https://phantivia.github.io/files/lmma.png" alt="" width="500">
+<img src="https://phantivia.github.io/files/lmma.png" alt="" width="500"> <br>
 
-Full-pipeline Automatic meta-analysis framework driven by GPT4. This project is led by Sun Lab, UIUC.
+Full-pipeline Automatic meta-analysis framework driven by GPT4. This project is led by Sun Lab, UIUC. <br>
 
-- **Automated Few-shot Neural News Retrieval System @ Invest Hong Kong**
+- **Automated Few-shot Neural News Retrieval System @ Invest Hong Kong**  <br>
 
-<img src="https://phantivia.github.io/files/ivhk.png" alt="" width="500">
+<img src="https://phantivia.github.io/files/ivhk.png" alt="" width="500"> <br>
 
-A collaborative project between CUHK and the HKSAR Government. The system has been implemented for [Invest Hong Kong](https://www.investhk.gov.hk/en/home.html) (Investment Department of the HKSAR) to automatically capture and analyze foreign investment interests.
+A collaborative project between CUHK and the HKSAR Government. The system has been implemented for [Invest Hong Kong](https://www.investhk.gov.hk/en/home.html) (Investment Department of the HKSAR) to automatically capture and analyze foreign investment interests. <br>
 
 ## 🍵Personal Projects
-- **PyPI Library: OpenAI-PTCompletion**
+- **PyPI Library: OpenAI-PTCompletion** <br>
 
-<img src="https://phantivia.github.io/files/ptcomp.png" alt="" width="500">
+<img src="https://phantivia.github.io/files/ptcomp.png" alt="" width="500"> <br>
 
-A Parallel Tasks Completion Library that boosts your OpenAI-API query with task queue & multiprocessing.
+A Parallel Tasks Completion Library that boosts your OpenAI-API query with task queue & multiprocessing. <br>
 
-- **Project: Summerday Battle !!**
+- **Project: Summerday Battle !!** <br>
 
 <video width="500" height="420" controls>
   <source src="https://phantivia.github.io/files/sm.mp4" type="video/mp4"> 
-</video>
+</video> <br>
 
-An MMO-like Top-down 2D game developed with Godot engine, with full game flow and multiplayer support. 
+An MMO-like Top-down 2D game developed with Godot engine, with full game flow and multiplayer support.  <br>
 
-- **Course Project: P-Lang Analyzer**
+- **Course Project: P-Lang Analyzer** <br>
 
-<img src="https://phantivia.github.io/files/plang.png" alt="" width="500">
+<img src="https://phantivia.github.io/files/plang.png" alt="" width="500"> <br>
 
-AST analyzer & visualization tool based on C++, with full GUI interface, specified on LL(1) grammar rule. 
+AST analyzer & visualization tool based on C++, with full GUI interface, specified on LL(1) grammar rule.  <br>
 
 ## 🔬Research Experience
 - ***10/2020 ~ 06/2021*** Undergraduate Research Assistant, advised by Prof. *Wei Wei*, on the topic of Gradient-based Textual Adversarial Attack.
