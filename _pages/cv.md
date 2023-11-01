@@ -63,8 +63,10 @@ AST analyzer & visualization tool based on C++, with full GUI interface, specifi
 - ***06/2021 ~ 09/2021*** Undergraduate Research Assistant, advised by Prof. *Zhenzhong Lan*, on the topic of Automated Real-time Evaluation in Text-based Mental Counseling.
 - ***07/2022 ~ 02/2023*** Undergraduate Research Assistant, advised by Prof. *Wong Kam Fai*, on the topic of Few-shot Neural News Retrieval System.
 - ***05/2023 ~ 12/2023*** Undergraduate Research Assistant, advised by Prof.  *Jimeng Sun*, on the topic of Large Language Model driven Automated Clinical Meta-Analysis. **(ongoing)**
+
 ## 🎖Honors and Awards
 - Honorable Mention prize of Mathematical Contest in Modeling(MCM) in 2021.
 - 2020 CIGA GAME JAM 48h Game Development Contest Finalist Nomination Award.
-##  📖 Education
+
+## 📖 Education
 - ***09/2019 ~ 06/2023*** Bachelor of Science in Computer Science, Department of Computer Science at Huazhong University of Science and Technology.
